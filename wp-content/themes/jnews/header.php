@@ -7,13 +7,14 @@
 <head>
     <meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
 	 <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1.0, user-scalable=0">
+	<meta name="description" content=""<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>"" />
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RT26BY2W9C"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-RT26BY2W9C');
 </script>
     <link rel="profile" href="http://gmpg.org/xfn/11" />
